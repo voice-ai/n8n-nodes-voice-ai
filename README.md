@@ -41,7 +41,7 @@ To use this node, you need a Voice.ai API key.
 ### How to get your API key:
 
 1. Sign up for a Voice.ai account at [https://voice.ai](https://voice.ai)
-2. Navigate to your API settings or developer dashboard
+2. Navigate to your developer dashboard
 3. Generate an API key
 4. Copy the API key
 

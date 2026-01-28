@@ -13,7 +13,8 @@
     "voice cloning"
   ],
   "author": {
-    "name": "Voice.ai"
+    "name": "Voice.ai",
+    "email": "opensource@voice.ai"
   },
   "repository": {
     "type": "git",

@@ -1,6 +1,6 @@
 {
   "name": "@voice-ai-labs/n8n-nodes-voice-ai",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "n8n community node for Voice.ai text-to-speech and voice management API",
   "license": "MIT",
   "homepage": "https://voice.ai",

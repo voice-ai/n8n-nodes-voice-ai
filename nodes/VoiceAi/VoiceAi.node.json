@@ -1,0 +1,18 @@
+{
+	"node": "@voice-ai-labs/n8n-nodes-voice-ai.voiceAi",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Development", "Communication", "Utility", "Marketing & Content"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://voice.ai/docs/api-reference"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/voice-ai/n8n-nodes-voice-ai#readme"
+			}
+		]
+	}
+}

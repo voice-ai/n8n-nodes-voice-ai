@@ -1,0 +1,21 @@
+node_modules/
+dist/
+*.log
+.DS_Store
+
+# IDE directories
+.vscode/
+.idea/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Environment variables
+.env
+.env.local
+
+# Test coverage
+coverage/
+
+# Windows
+Thumbs.db
